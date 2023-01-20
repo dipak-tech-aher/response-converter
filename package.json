@@ -1,6 +1,6 @@
 {
   "name": "response-converter",
-  "version": "1.0.0",
+  "version": "1.2.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -8,6 +8,10 @@
   },
   "keywords": [],
   "author": "",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dipak-tech-aher/response-converter"
+  },
   "license": "ISC",
   "dependencies": {
     "ftp": "^0.3.10",
